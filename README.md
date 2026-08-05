@@ -64,4 +64,3 @@ Penjabaran metrik rasio yang menghitung persis berapa angka perbandingan antara 
 
 
 ---
-*Dibuat menggunakan Python (Pandas, Plotly, Seaborn, Folium/Mapbox) untuk proyek portofolio Data Analytics & Spatial Data Science.*
